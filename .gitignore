@@ -1,0 +1,11 @@
+/mlartifacts
+/mlruns
+/spamenv
+approach.py
+approach2.py.py
+justRAndomTest.ipynb
+spamvectorizer
+SVCIterationModel.joblib
+anotherapproach.ipynb
+postdatav1.csv
+versionMLData.csv
